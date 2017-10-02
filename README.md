@@ -1,1 +1,1 @@
-# class-hub
+# Classhub
